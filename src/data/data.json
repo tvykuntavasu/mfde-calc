@@ -1,0 +1,1336 @@
+{
+    "Results": [
+        {
+            "City": "Stuttgart",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ludwigsburg",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Berlin ",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Frankfurt",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Cologne",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Munich",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Leipzig",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Düsseldorf",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Paris",
+            "AvgSpeed": "15",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Strasbourg",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lille",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lyon",
+            "AvgSpeed": "15",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Marsaille",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Nice",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Barcelona",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Madrid",
+            "AvgSpeed": "18.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Torino",
+            "AvgSpeed": "14.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Padova",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Milano",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bolzano",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Alessandria",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Asti",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Pavia",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Vicenza",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Vigevano",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Cremona",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Modena",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Napoli",
+            "AvgSpeed": "14.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Verona",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bergamo",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Treviso",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bologna",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Genova",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Trento",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Udine",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Parma",
+            "AvgSpeed": "22.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Sofia",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Krakow",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Katowice",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Warsaw",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Zagreb",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Praha",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "London",
+            "AvgSpeed": "15",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Medway",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bristol",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Leicester",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Swansea",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Coventry",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Portsmouth",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Thurrock",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "York",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Liverpool",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Cardiff",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Leeds",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Manchester",
+            "AvgSpeed": "18.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Plymouth",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Belfast",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Greater Nottingham",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Sheffield",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Norwich",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chesterfield",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Aberdeen",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Warwick",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Glasgow",
+            "AvgSpeed": "18.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Reading",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Oxford",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Edinburgh",
+            "AvgSpeed": "15",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Southampton ",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Athens",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Sarajevo",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Zenica",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lukavac",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Tuzla",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ankara",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Konya",
+            "AvgSpeed": "23",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Istanbul",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Düzce",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Rio de Janeiro",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Itaboraí",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Sao Paulo",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Rio Claro",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Santa Gertudes",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Brasilia",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bogota",
+            "AvgSpeed": "14.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Medellin",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Santiago de Cali",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Barranquilla",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bucaramanga",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Toluca",
+            "AvgSpeed": "18.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Puebla",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Guadalajara",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Nezahualcóyotl",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ecatepec de Morelos",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Mexico City",
+            "AvgSpeed": "16.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Rancagua",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Coyhaique",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Padre las Casas",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Osorno",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Curico",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Linares",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Pudahuel",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Providencia",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Quilicura",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Cerrillos",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Santiago",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Anyang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Shangqiu",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Puyang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hebi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Shijiazhuang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ji´nan",
+            "AvgSpeed": "16.89",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Taiyuan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Xi´an",
+            "AvgSpeed": "19.5",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Xianyang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Baoding",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Urumqi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lanzhou",
+            "AvgSpeed": "17.255",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Shihezi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Tianjin",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Shenyang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Yinchuan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Harbin",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Beijing",
+            "AvgSpeed": "18.32",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hangzhou",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Changchun",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Xining",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chongqing",
+            "AvgSpeed": "19.35",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Tangshan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Xingtai",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hengshui",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Shanghai",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Guangzhou",
+            "AvgSpeed": "18.35",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Shenzhen",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Handan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Luoyang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hotan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Kashgar",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Laiwu",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chengdu",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "South Tangerang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bekasi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Pekanbaru",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Jakarta",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Incheon",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Dajon",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Seoul",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Busan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Daegu",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ulsan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bangkok",
+            "AvgSpeed": "17.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Khon Kaen",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chiang Rai",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Mueang Lamphun ",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Nakhon Ratchasima",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Nonthaburi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Mae Hong Son ",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hang Dong",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Saraphi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Pai",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hanoi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hue",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Da Nang",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ho Chi Minh City",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "La Paz",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Cochabamba",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lima",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Santo Domingo",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Milagro",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bnei Brak",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ramat Gan",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Tel Aviv",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Jerusalem",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Rishon Le Tsyion",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Haifa",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Gan Raveh",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Doha",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Dubai",
+            "AvgSpeed": "23",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Abu Dhabi",
+            "AvgSpeed": "26.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Sharjah",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Manama",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Phoenix-Messa-Scottsdale",
+            "AvgSpeed": "20.7",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Fresno - Bakersfield",
+            "AvgSpeed": "22.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Cincinnati",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Tucson",
+            "AvgSpeed": "20.6",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Los Angeles",
+            "AvgSpeed": "19.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "New York",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chicago",
+            "AvgSpeed": "15.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "San Francisco",
+            "AvgSpeed": "15",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Indianapolis",
+            "AvgSpeed": "22.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Denver",
+            "AvgSpeed": "15",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Muswellbrook",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Singleton",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Wagga Wagga",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Newcastle",
+            "AvgSpeed": "21.4",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Tamworth",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Canberra",
+            "AvgSpeed": "23.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bathurst",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Wyong",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Armidale",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Beresfield",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Delhi",
+            "AvgSpeed": "20.25",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Ghaziabad",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lucknow",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Noida",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Bangalore",
+            "AvgSpeed": "17.2",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Mumbai",
+            "AvgSpeed": "17.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chandrapur",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Kolkata",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Pune",
+            "AvgSpeed": "17.95",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Nagpur",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Hyderabad",
+            "AvgSpeed": "20.55",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Navi Mumbai",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Chennai",
+            "AvgSpeed": "16.8",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Gurugram",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Greater Noida",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Gujranwala",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Faisalabad",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Raiwind",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Lahore",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Peshawar",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Karachi",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        },
+        {
+            "City": "Islamabad",
+            "AvgSpeed": "19",
+            "PM2.5": "10",
+            "PM10": "15"
+        }
+    ]
+}
