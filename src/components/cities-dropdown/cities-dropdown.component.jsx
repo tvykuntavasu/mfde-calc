@@ -8,7 +8,6 @@ export const CitiesDropdown = ({cities,placeholder,handleChange}) => {
     return (
         <div className='citydropdown'>
             <Select 
-            isClearable  
             options={cities.map(city => ({ label: city.City, value: [city.City,city.AvgSpeed,city["PM2.5"],city.PM10] }))} 
             placeholder={placeholder}
             onChange={handleChange}

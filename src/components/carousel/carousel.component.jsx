@@ -1,5 +1,32 @@
-import React from 'react'
+import React from "react";
+import Slider from "react-slick";
 import './carousel.styles.css'
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+
+export const CarouselComponent = ({settings,imageClick}) => {
+    return (
+        <div >
+            <Slider {...settings} onClick={imageClick}>
+                <div>
+                    <img alt='scooter' src='../scooter.png' />
+                </div>
+                <div>
+                <img alt='car' src='../car.png' />
+                </div>
+                <div>
+                <img alt='trcuk' src='../minitruck.png' />
+                </div>
+                <div>
+                <img alt='minitruck' src='../truck.png' />
+                </div>
+                
+            </Slider>
+        </div >
+    );
+}
+
+/* import './carousel.styles.css'
 //import { Carousel } from 'react-responsive-carousel';
 import Carousel from 'react-elastic-carousel'
 import Item from './item.js'
@@ -15,5 +42,5 @@ export const CarouselComponent = () => (
     <Item vehicle="truck"><img alt='scooter' src='../truck.png' /></Item>
     </Carousel>
 
-)
+) */
 

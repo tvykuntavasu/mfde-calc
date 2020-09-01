@@ -36,6 +36,9 @@ class App extends Component {
     })
     
   }
+  imageClick=e=>{
+    console.log(e)
+  }
  onSliderChange=e=>{
   this.setState({ airQualityIndex: e.target.value })
  }
@@ -49,6 +52,14 @@ class App extends Component {
   render() {
 
     const { avrgSpeedLimit,airQualityIndex,selectedOption } = this.state
+    const settings = {
+      dots: false,
+      arrows:true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 3,
+      slidesToScroll: 1
+    };
     
     return (
       <div className="App">
@@ -65,7 +76,7 @@ class App extends Component {
           min="0"
           max="100"
           step="1"
-          value={avrgSpeedLimit}
+          value={avrgSpeedLimit||null}
           onChange={e => {
             this.setState({ avrgSpeedLimit: e.target.value })
           }}
@@ -95,11 +106,11 @@ class App extends Component {
           min="0"
           max="100"
           step="1"
-          value={airQualityIndex||'0'}
+          value={airQualityIndex}
           onChange={this.onSliderChange}
         />  
         <p>{airQualityIndex} µg/m3</p>
-        <CarouselComponent />
+        <CarouselComponent settings={settings} imageClick={this.imageClick}/>
       </div>
     );
   }

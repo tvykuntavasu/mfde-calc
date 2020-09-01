@@ -11,3 +11,10 @@
     width: 100px;
     position: relative;
 }
+.App {
+    font-family: sans-serif;
+    padding: 10px 30px;
+  }
+  .slick-prev:before, .slick-next:before {
+      color:blue!important;
+  }
