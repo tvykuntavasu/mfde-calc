@@ -1,0 +1,130 @@
+{
+    "vehicleTypes": [
+        {
+            "label": "bus",
+            "value": "bus"
+        },
+        {
+            "label": "car",
+            "value": "car"
+        },
+        {
+            "label": "truck",
+            "value": "truck"
+        },
+        {
+            "label": "scooter",
+            "value": "scooter"
+        },
+        {
+            "label": "minitruck",
+            "value": "minitruck"
+        }
+    ],
+    "EmissionNorms": [
+        {
+            "label": "IC",
+            "value": "IC"
+        },
+        {
+            "label": "Euro6",
+            "value": "Euro6"
+        }
+    ],
+    "products": [
+        {
+            "label": "Gen1",
+            "value": "Gen1"
+        },
+        {
+            "label": "Gen2",
+            "value": "Gen2"
+        }
+    ],
+    "powerdetails": {
+        "Gen1": [
+            {
+                "fr": 0,
+                "power": 0
+            },
+            {
+                "fr": 532,
+                "power": 7
+            },
+            {
+                "fr": 890,
+                "power": 29
+            },
+            {
+                "fr": 1130,
+                "power": 56
+            },
+            {
+                "fr": 1249,
+                "power": 74
+            },
+            {
+                "fr": 1370,
+                "power": 96
+            },
+            {
+                "fr": 1609,
+                "power": 152
+            },
+            {
+                "fr": 1751,
+                "power": 194
+            },
+            {
+                "fr": 1849,
+                "power": 227
+            },
+            {
+                "fr": 2005,
+                "power": 287
+            }
+        ],
+        "Gen2": [
+            {
+                "fr": 0,
+                "power": 0
+            },
+            {
+                "fr": 532,
+                "power": 7
+            },
+            {
+                "fr": 890,
+                "power": 29
+            },
+            {
+                "fr": 1130,
+                "power": 56
+            },
+            {
+                "fr": 1249,
+                "power": 74
+            },
+            {
+                "fr": 1370,
+                "power": 96
+            },
+            {
+                "fr": 1609,
+                "power": 152
+            },
+            {
+                "fr": 1751,
+                "power": 194
+            },
+            {
+                "fr": 1849,
+                "power": 227
+            },
+            {
+                "fr": 2005,
+                "power": 287
+            }
+        ]
+    }
+}
