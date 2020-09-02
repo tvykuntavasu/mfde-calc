@@ -9,7 +9,10 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-elastic-carousel": "^0.7.4",
+    "react-input-number": "^5.0.19",
     "react-input-slider": "^6.0.0",
+    "react-native-input-spinner": "^1.2.18",
+    "react-native-numeric-input": "^1.8.3",
     "react-responsive-carousel": "^3.2.9",
     "react-scripts": "3.4.3",
     "react-select": "^2.0.0-beta.7",
@@ -37,5 +40,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.10.4"
+  },
+  "plugins": [
+    "@babel/plugin-transform-react-jsx"
+  ]
 }
