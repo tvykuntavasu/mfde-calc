@@ -1,0 +1,23 @@
+.MuiSlider-root {
+    color: "#52af77";
+    height: 8,
+}
+.MuiSlider-thumb {
+    height: 25;
+    width: 25;
+    background-color:"#fff";
+    border: "2px solid currentColor";
+    margin-Top: -3;
+    margin-Left: -12;    
+}
+.MuiSlider-valueLabel {
+    left: "calc(-50% + 4px)"
+}
+.MuiSlider-track {
+    height: 20;    
+    border-Radius: 4
+}
+.MuiSlider-rail {
+    height: 20;
+    border-Radius: 4
+}

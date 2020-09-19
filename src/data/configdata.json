@@ -1,26 +1,63 @@
 {
     "vehicleTypes": [
         {
-            "label": "bus",
-            "value": "bus"
+            "label": "Motorcycles",
+            "value": "Motorcycles",
+            "Motorcycles":[{            
+            "PM10":[
+                {
+                    "Urbantyre":3.7,
+                    "Urbanbrake":5.8,
+                    "Urbanroad":3,
+                    "EUR6":3.5,
+                    "EUR4-5":3.5,
+                    "Non-exhaustsum":12.5
+
+                }],
+            "PM25":[
+                    {
+                        "Urbantyre":2.59,
+                        "Urbanbrake":2.32,
+                        "Urbanroad":1.62,
+                        "EUR6":3.5,
+                        "EUR4-5":3.5,
+                        "Non-exhaustsum":7
+    
+                    }
+            ]
+            }]
         },
         {
-            "label": "car",
-            "value": "car"
-        },
-        {
-            "label": "truck",
-            "value": "truck"
-        },
-        {
-            "label": "scooter",
-            "value": "scooter"
-        },
-        {
-            "label": "minitruck",
-            "value": "minitruck"
+            "label": "Cars",
+            "value": "Cars",
+            "Cars":[{                
+                "PM10":[
+                    {
+                        "Urbantyre":3.7,
+                        "Urbanbrake":5.8,
+                        "Urbanroad":3,
+                        "EUR6":3.5,
+                        "EUR4-5":3.5,
+                        "Non-exhaustsum":12.5
+    
+                    }],
+                "PM25":[
+                        {
+                            "Urbantyre":2.59,
+                            "Urbanbrake":2.32,
+                            "Urbanroad":1.62,
+                            "EUR6":3.5,
+                            "EUR4-5":3.5,
+                            "Non-exhaustsum":7
+        
+                        }
+                ]
+                }]
         }
     ],
+    "Countries":["DE","FR","ES","IT","BG","PL","HR","CZ","UK","GR","BA","TR","BR","CO","MX","CL","CN","ID","KR","TH","VN","BO","PE","EC","IL","QA","BH","US","IN","AU","PK","AE"],
+
+    
     "EmissionNorms": [
         {
             "label": "IC",
@@ -44,87 +81,48 @@
     "powerdetails": {
         "Gen1": [
             {
-                "fr": 0,
+                "value": 0,
+                "label":"0",
                 "power": 0
             },
             {
-                "fr": 532,
-                "power": 7
+                "value": 1400,
+                "label":"1400",
+                "power": 100
             },
             {
-                "fr": 890,
-                "power": 29
+                "value": 1750,
+                "label":"1750",
+                "power": 200
             },
             {
-                "fr": 1130,
-                "power": 56
-            },
-            {
-                "fr": 1249,
-                "power": 74
-            },
-            {
-                "fr": 1370,
-                "power": 96
-            },
-            {
-                "fr": 1609,
-                "power": 152
-            },
-            {
-                "fr": 1751,
-                "power": 194
-            },
-            {
-                "fr": 1849,
-                "power": 227
-            },
-            {
-                "fr": 2005,
-                "power": 287
+                "value": 2250,
+                "label":"2250",
+                "power": 400
             }
         ],
         "Gen2": [
             {
-                "fr": 0,
+                "value": 0,
+                "label":"0",
                 "power": 0
             },
             {
-                "fr": 532,
-                "power": 7
+                "value": 1750,
+                "label":"1750",
+                "power": 100
             },
             {
-                "fr": 890,
-                "power": 29
+                "value": 2000,
+                "label":"2000",
+                "power": 150
             },
             {
-                "fr": 1130,
-                "power": 56
-            },
-            {
-                "fr": 1249,
-                "power": 74
-            },
-            {
-                "fr": 1370,
-                "power": 96
-            },
-            {
-                "fr": 1609,
-                "power": 152
-            },
-            {
-                "fr": 1751,
-                "power": 194
-            },
-            {
-                "fr": 1849,
-                "power": 227
-            },
-            {
-                "fr": 2005,
-                "power": 287
+                "value": 2500,
+                "label":"2500",
+                "power": 250
             }
         ]
     }
+
 }

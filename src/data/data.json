@@ -1,1336 +1,1986 @@
 {
     "Results": [
         {
-            "City": "Stuttgart",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ludwigsburg",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Berlin ",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Frankfurt",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Cologne",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Munich",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Leipzig",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Düsseldorf",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Paris",
-            "AvgSpeed": "15",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Strasbourg",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Lille",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Lyon",
-            "AvgSpeed": "15",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Marsaille",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Nice",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Barcelona",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Madrid",
-            "AvgSpeed": "18.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Torino",
-            "AvgSpeed": "14.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Padova",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Milano",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bolzano",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Alessandria",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Asti",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Pavia",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Vicenza",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Vigevano",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Cremona",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Modena",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Napoli",
-            "AvgSpeed": "14.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Verona",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bergamo",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Treviso",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bologna",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Genova",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Trento",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Udine",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Parma",
-            "AvgSpeed": "22.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Sofia",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Krakow",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Katowice",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Warsaw",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Zagreb",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Praha",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "London",
-            "AvgSpeed": "15",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Medway",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bristol",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Leicester",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Swansea",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Coventry",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Portsmouth",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Thurrock",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "York",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Liverpool",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Cardiff",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Leeds",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Manchester",
-            "AvgSpeed": "18.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Plymouth",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Belfast",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Greater Nottingham",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Sheffield",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Norwich",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Chesterfield",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Aberdeen",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Warwick",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Glasgow",
-            "AvgSpeed": "18.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Reading",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Oxford",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Edinburgh",
-            "AvgSpeed": "15",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Southampton ",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Athens",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Sarajevo",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Zenica",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Lukavac",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Tuzla",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ankara",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Konya",
-            "AvgSpeed": "23",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Istanbul",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Düzce",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Rio de Janeiro",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Itaboraí",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Sao Paulo",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Rio Claro",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Santa Gertudes",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Brasilia",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bogota",
-            "AvgSpeed": "14.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Medellin",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Santiago de Cali",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Barranquilla",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bucaramanga",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Toluca",
-            "AvgSpeed": "18.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Puebla",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Guadalajara",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Nezahualcóyotl",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ecatepec de Morelos",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Mexico City",
-            "AvgSpeed": "16.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Rancagua",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Coyhaique",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Padre las Casas",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Osorno",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Curico",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Linares",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Pudahuel",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Providencia",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Quilicura",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Cerrillos",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Santiago",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Anyang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Shangqiu",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Puyang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hebi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Shijiazhuang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ji´nan",
-            "AvgSpeed": "16.89",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Taiyuan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Xi´an",
-            "AvgSpeed": "19.5",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Xianyang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Baoding",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Urumqi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Lanzhou",
-            "AvgSpeed": "17.255",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Shihezi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Tianjin",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Shenyang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Yinchuan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Harbin",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Beijing",
-            "AvgSpeed": "18.32",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hangzhou",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Changchun",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Xining",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Chongqing",
-            "AvgSpeed": "19.35",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Tangshan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Xingtai",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hengshui",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Shanghai",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Guangzhou",
-            "AvgSpeed": "18.35",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Shenzhen",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Handan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Luoyang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hotan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Kashgar",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Laiwu",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Chengdu",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "South Tangerang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bekasi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Pekanbaru",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Jakarta",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Incheon",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Dajon",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Seoul",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Busan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Daegu",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ulsan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bangkok",
-            "AvgSpeed": "17.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Khon Kaen",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Chiang Rai",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Mueang Lamphun ",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Nakhon Ratchasima",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Nonthaburi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Mae Hong Son ",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hang Dong",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Saraphi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Pai",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hanoi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hue",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Da Nang",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ho Chi Minh City",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "La Paz",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Cochabamba",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Lima",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Santo Domingo",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Milagro",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bnei Brak",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Ramat Gan",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Tel Aviv",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Jerusalem",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Rishon Le Tsyion",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Haifa",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Gan Raveh",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Doha",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Dubai",
-            "AvgSpeed": "23",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
+            "Country": "UK",
+            "City": "AberIDen",
+            "PM2.5": "6.9",
+            "PM10": "14.3",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AE",
             "City": "Abu Dhabi",
-            "AvgSpeed": "26.2",
-            "PM2.5": "10",
-            "PM10": "15"
+            "PM2.5": "38.4",
+            "PM10": "0",
+            "AvrgSpeedLimit": "26.2",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
         },
         {
-            "City": "Sharjah",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "IT",
+            "City": "Alessandria",
+            "PM2.5": "22.17",
+            "PM10": "36.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
         },
         {
-            "City": "Manama",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "CL",
+            "City": "Andacollo",
+            "PM2.5": "0",
+            "PM10": "67",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
         },
         {
-            "City": "Phoenix-Messa-Scottsdale",
-            "AvgSpeed": "20.7",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "TK",
+            "City": "Ankara",
+            "PM2.5": "0",
+            "PM10": "66.8",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
         },
         {
-            "City": "Fresno - Bakersfield",
-            "AvgSpeed": "22.2",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "CN",
+            "City": "Anyang",
+            "PM2.5": "70.3",
+            "PM10": "117",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
         },
         {
-            "City": "Cincinnati",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Tucson",
-            "AvgSpeed": "20.6",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Los Angeles",
-            "AvgSpeed": "19.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "New York",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Chicago",
-            "AvgSpeed": "15.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "San Francisco",
-            "AvgSpeed": "15",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Indianapolis",
-            "AvgSpeed": "22.2",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Denver",
-            "AvgSpeed": "15",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Muswellbrook",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Singleton",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Wagga Wagga",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Newcastle",
-            "AvgSpeed": "21.4",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Tamworth",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Canberra",
-            "AvgSpeed": "23.8",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Bathurst",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Wyong",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
+            "Country": "AU",
             "City": "Armidale",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "PM2.5": "23",
+            "PM10": "23.5",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
         },
         {
-            "City": "Beresfield",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "IT",
+            "City": "Asti",
+            "PM2.5": "0",
+            "PM10": "36",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
         },
         {
-            "City": "Delhi",
-            "AvgSpeed": "20.25",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "IN",
+            "City": "Baghpat",
+            "PM2.5": "88.6",
+            "PM10": "138",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
         },
         {
-            "City": "Ghaziabad",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "IN",
+            "City": "Bandhwari",
+            "PM2.5": "905",
+            "PM10": "117.35",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
         },
         {
-            "City": "Lucknow",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Noida",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
+            "Country": "IN",
             "City": "Bangalore",
-            "AvgSpeed": "17.2",
-            "PM2.5": "10",
-            "PM10": "15"
+            "PM2.5": "32.6",
+            "PM10": "116",
+            "AvrgSpeedLimit": "17.2",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / CPCB"
         },
         {
-            "City": "Mumbai",
-            "AvgSpeed": "17.8",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "TH",
+            "City": "Bangkok",
+            "PM2.5": "22.8",
+            "PM10": "49.2",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
         },
         {
+            "Country": "CN",
+            "City": "Baoding",
+            "PM2.5": "60",
+            "PM10": "102",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Chinese Government"
+        },
+        {
+            "Country": "ES",
+            "City": "Barcelona",
+            "PM2.5": "18.29",
+            "PM10": "27.5",
+            "AvrgSpeedLimit": "16.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CO",
+            "City": "Barraquilla",
+            "PM2.5": "44.8",
+            "PM10": "46.4",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "COn Government"
+        },
+        {
+            "Country": "AU",
+            "City": "Bathurst",
+            "PM2.5": "13.1",
+            "PM10": "15",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "CN",
+            "City": "Beijing",
+            "PM2.5": "76",
+            "PM10": "67.4",
+            "AvrgSpeedLimit": "18.32",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "ID",
+            "City": "Bekasi",
+            "PM2.5": "62.6",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "UK",
+            "City": "Belfast",
+            "PM2.5": "10",
+            "PM10": "16.3",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Beresfield",
+            "PM2.5": "13.6",
+            "PM10": "42.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IT",
+            "City": "Bergamo",
+            "PM2.5": "21.3",
+            "PM10": "30.3",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "DE",
+            "City": "Berlin",
+            "PM2.5": "17.66",
+            "PM10": "27.7",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Blenheim",
+            "PM2.5": "12.2",
+            "PM10": "15.7",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IL",
+            "City": "Bnei Brak",
+            "PM2.5": "22.9",
+            "PM10": "53",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "CO",
+            "City": "Bogotá",
+            "PM2.5": "18.53",
+            "PM10": "56",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "COn Government"
+        },
+        {
+            "Country": "IT",
+            "City": "Bologna",
+            "PM2.5": "18",
+            "PM10": "26.1",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Bolzano",
+            "PM2.5": "0",
+            "PM10": "17.9",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "UK",
+            "City": "Bristol",
+            "PM2.5": "12",
+            "PM10": "22.6",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CO",
+            "City": "Bucaramanga",
+            "PM2.5": "19.58",
+            "PM10": "42.88",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "COn Government"
+        },
+        {
+            "Country": "IN",
+            "City": "Bulandshahr",
+            "PM2.5": "89.4",
+            "PM10": "117",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "US",
+            "City": "Burbank",
+            "PM2.5": "15.5",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "SK",
+            "City": "BUSn",
+            "PM2.5": "21",
+            "PM10": "44",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Statista"
+        },
+        {
+            "Country": "CO",
+            "City": "Caldas",
+            "PM2.5": "0",
+            "PM10": "49",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "CO",
+            "City": "Cali",
+            "PM2.5": "31.9",
+            "PM10": "86.6",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "COn Government"
+        },
+        {
+            "Country": "AU",
+            "City": "Canberra",
+            "PM2.5": "15",
+            "PM10": "16",
+            "AvrgSpeedLimit": "23.8",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "UK",
+            "City": "Cardiff",
+            "PM2.5": "10.2",
+            "PM10": "17.4",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IN",
             "City": "Chandrapur",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "PM2.5": "0",
+            "PM10": "149",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "CPCB"
         },
         {
-            "City": "Kolkata",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "CN",
+            "City": "Changchun",
+            "PM2.5": "0",
+            "PM10": "65.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
         },
         {
-            "City": "Pune",
-            "AvgSpeed": "17.95",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "CN",
+            "City": "Chengdu",
+            "PM2.5": "42.4",
+            "PM10": "67.8",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
         },
         {
-            "City": "Nagpur",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Hyderabad",
-            "AvgSpeed": "20.55",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
-            "City": "Navi Mumbai",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
-        },
-        {
+            "Country": "IN",
             "City": "Chennai",
-            "AvgSpeed": "16.8",
-            "PM2.5": "10",
-            "PM10": "15"
+            "PM2.5": "34.6",
+            "PM10": "78",
+            "AvrgSpeedLimit": "16.8",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / CPCB"
         },
         {
-            "City": "Gurugram",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "UK",
+            "City": "Chesterfield",
+            "PM2.5": "0",
+            "PM10": "14.4",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
         },
         {
-            "City": "Greater Noida",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "TH",
+            "City": "Chiang Rai",
+            "PM2.5": "37",
+            "PM10": "46.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
         },
         {
-            "City": "Gujranwala",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "US",
+            "City": "Chicago",
+            "PM2.5": "12.8",
+            "PM10": "19",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / EPA"
         },
         {
+            "Country": "CN",
+            "City": "Chongqing",
+            "PM2.5": "37.1",
+            "PM10": "58.27",
+            "AvrgSpeedLimit": "19.35",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Aqistudy"
+        },
+        {
+            "Country": "CO",
+            "City": "Ciénaga",
+            "PM2.5": "0",
+            "PM10": "48",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "BO",
+            "City": "Cochabamba",
+            "PM2.5": "0",
+            "PM10": "60",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "DE",
+            "City": "Cologne",
+            "PM2.5": "13.55",
+            "PM10": "20.9",
+            "AvrgSpeedLimit": "20.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "US",
+            "City": "Colton",
+            "PM2.5": "16.1",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "US",
+            "City": "Compton",
+            "PM2.5": "15.7",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "CL",
+            "City": "Copiapó",
+            "PM2.5": "0",
+            "PM10": "47",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "UK",
+            "City": "Coventry",
+            "PM2.5": "10.6",
+            "PM10": "19.4",
+            "AvrgSpeedLimit": "20.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CL",
+            "City": "Coyhaique",
+            "PM2.5": "41.5",
+            "PM10": "48.3",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IT",
+            "City": "Cremona",
+            "PM2.5": "25.6",
+            "PM10": "33.9",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "BR",
+            "City": "Cubatão",
+            "PM2.5": "0",
+            "PM10": "69",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "CL",
+            "City": "Curico",
+            "PM2.5": "25.8",
+            "PM10": "51",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "VN",
+            "City": "Da Nang",
+            "PM2.5": "25.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "SK",
+            "City": "Daegu",
+            "PM2.5": "22.1",
+            "PM10": "42",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Statista"
+        },
+        {
+            "Country": "SK",
+            "City": "Daejeon",
+            "PM2.5": "21.8",
+            "PM10": "45",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Statista"
+        },
+        {
+            "Country": "IN",
+            "City": "IDlhi",
+            "PM2.5": "98.6",
+            "PM10": "212",
+            "AvrgSpeedLimit": "20.25",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Central Pollution Control Board"
+        },
+        {
+            "Country": "US",
+            "City": "IDnver",
+            "PM10": "35",
+            "AvrgSpeedLimit": "15",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / EPA"
+        },
+        {
+            "Country": "US",
+            "City": "Diamond Bar",
+            "PM2.5": "16",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "QA",
+            "City": "Doha",
+            "PM2.5": "119.2",
+            "PM10": "219.5",
+            "AvrgSpeedLimit": "20.6",
+            "Source (PM2.5) (PM10)": "Ministry of Environment "
+        },
+        {
+            "Country": "AE",
+            "City": "Dubai",
+            "PM2.5": "40.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "23",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "DE",
+            "City": "Düsseldorf",
+            "PM2.5": "16.07",
+            "PM10": "25.3",
+            "AvrgSpeedLimit": "20.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "TK",
+            "City": "Düzce",
+            "PM2.5": "46",
+            "PM10": "56.1",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / European Environment Agency"
+        },
+        {
+            "Country": "US",
+            "City": "Eastvale",
+            "PM2.5": "16.2",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "MX",
+            "City": "Ecatepec ID Morelos",
+            "PM2.5": "25.4",
+            "PM10": "40.2",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "UK",
+            "City": "Edinburgh",
+            "PM2.5": "6.3",
+            "PM10": "10.7",
+            "AvrgSpeedLimit": "15",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "US",
+            "City": "El Monte",
+            "PM2.5": "15.2",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "PK",
             "City": "Faisalabad",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "PM2.5": "104.6",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
         },
         {
-            "City": "Raiwind",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "US",
+            "City": "Florence-Graham ",
+            "PM2.5": "16.1",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
         },
         {
-            "City": "Lahore",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "DE",
+            "City": "Frankfurt",
+            "PM2.5": "15.61",
+            "PM10": "24.8",
+            "AvrgSpeedLimit": "20.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
         },
         {
-            "City": "Peshawar",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "IL",
+            "City": "Gan Raveh",
+            "PM2.5": "24.5",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
         },
         {
-            "City": "Karachi",
-            "AvgSpeed": "19",
-            "PM2.5": "10",
-            "PM10": "15"
+            "Country": "IT",
+            "City": "Genova",
+            "PM2.5": "15.9",
+            "PM10": "25.3",
+            "AvrgSpeedLimit": "16.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
         },
         {
+            "Country": "IN",
+            "City": "Ghaziabad",
+            "PM2.5": "110.2",
+            "PM10": "254",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / CPCB"
+        },
+        {
+            "Country": "CO",
+            "City": "Girardota",
+            "PM2.5": "0",
+            "PM10": "46",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "UK",
+            "City": "Glasgow",
+            "PM2.5": "7.4",
+            "PM10": "13.8",
+            "AvrgSpeedLimit": "18.2",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IN",
+            "City": "Greater Noida",
+            "PM2.5": "91.3",
+            "PM10": "143",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "UK",
+            "City": "Greater Nottingham",
+            "PM2.5": "0",
+            "PM10": "16.3",
+            "AvrgSpeedLimit": "16.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "MX",
+            "City": "Guadalajara",
+            "PM2.5": "0",
+            "PM10": "30.1",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "AQICN"
+        },
+        {
+            "Country": "CN",
+            "City": "Guangzhou",
+            "PM2.5": "28.9",
+            "PM10": "46",
+            "AvrgSpeedLimit": "18.35",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "PK",
+            "City": "Gujranwala",
+            "PM2.5": "105.3",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "IL",
+            "City": "Haifa",
+            "PM2.5": "0",
+            "PM10": "37",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "AQICN"
+        },
+        {
+            "Country": "CN",
+            "City": "Handan",
+            "PM2.5": "44",
+            "PM10": "121.3",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Chinese Government"
+        },
+        {
+            "Country": "TH",
+            "City": "Hang Dong",
+            "PM2.5": "38",
+            "PM10": "34.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "CN",
+            "City": "Hangzhou",
+            "PM2.5": "0",
+            "PM10": "66.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "VN",
+            "City": "Hanoi",
+            "PM2.5": "46.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "CN",
+            "City": "Harbin",
+            "PM2.5": "0",
+            "PM10": "70.2",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "CN",
+            "City": "Hebi",
+            "PM2.5": "62.1",
+            "PM10": "100.6",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "CN",
+            "City": "Hengshui ",
+            "PM2.5": "46",
+            "PM10": "97",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Chinese Government"
+        },
+        {
+            "Country": "VN",
+            "City": "Ho Chi Minh City",
+            "PM2.5": "25.3",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "VN",
+            "City": "Hue",
+            "PM2.5": "28.6",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "US",
+            "City": "Huntington Park",
+            "PM2.5": "15.4",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "IN",
+            "City": "HyIDrabad",
+            "PM2.5": "39",
+            "PM10": "115",
+            "AvrgSpeedLimit": "20.55",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / CPCB"
+        },
+        {
+            "Country": "SK",
+            "City": "Incheon",
+            "PM2.5": "22.8",
+            "PM10": "45",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Statista"
+        },
+        {
+            "Country": "US",
+            "City": "INnapolis",
+            "PM2.5": "13.4",
+            "PM10": "26",
+            "AvrgSpeedLimit": "22.2",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / EPA"
+        },
+        {
+            "Country": "PK",
             "City": "Islamabad",
-            "AvgSpeed": "19",
+            "PM2.5": "35.2",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "TK",
+            "City": "Istanbul",
+            "PM2.5": "28.77",
+            "PM10": "51.2",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "BR",
+            "City": "Itaboraí",
+            "PM2.5": "0",
+            "PM10": "46",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "CO",
+            "City": "Itagüí (MeIDllín)",
+            "PM2.5": "0",
+            "PM10": "50",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "ID",
+            "City": "Jakarta",
+            "PM2.5": "49.4",
+            "PM10": "41.2",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IL",
+            "City": "JerUSlem",
+            "PM2.5": "0",
+            "PM10": "41",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "AQICN"
+        },
+        {
+            "Country": "CN",
+            "City": "Jinan",
+            "PM2.5": "0",
+            "PM10": "108.76",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "IN",
+            "City": "Jind",
+            "PM2.5": "85.4",
+            "PM10": "91",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "PK",
+            "City": "Karachi",
+            "PM2.5": "40.2",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "TH",
+            "City": "Khon Kaen",
+            "PM2.5": "36.4",
+            "PM10": "48.5",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IN",
+            "City": "Kolkata",
+            "PM2.5": "59.8",
+            "PM10": "102",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Central Pollution Control Board"
+        },
+        {
+            "Country": "TK",
+            "City": "Konya",
+            "PM2.5": "37.2",
+            "PM10": "58.5",
+            "AvrgSpeedLimit": "23",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / European Environment Agency"
+        },
+        {
+            "Country": "PL",
+            "City": "Krakow",
+            "PM2.5": "39.47",
+            "PM10": "43.4",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CO",
+            "City": "La Estrella",
+            "PM2.5": "0",
+            "PM10": "47",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "BO",
+            "City": "La Paz",
+            "PM2.5": "0",
+            "PM10": "82",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "PK",
+            "City": "Lahore",
+            "PM2.5": "89.5",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "TK",
+            "City": "Lalapasa",
+            "PM2.5": "53.8",
+            "PM10": "53.6",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / European Environment Agency"
+        },
+        {
+            "Country": "CN",
+            "City": "Lanzhou",
+            "PM2.5": "0",
+            "PM10": "86.56",
+            "AvrgSpeedLimit": "17.25",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "UK",
+            "City": "Leeds",
+            "PM2.5": "11.2",
+            "PM10": "17.2",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "UK",
+            "City": "Leicester",
+            "PM2.5": "10.4",
+            "PM10": "22.5",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "DE",
+            "City": "Leipzig",
+            "PM10": "25.3",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "FR",
+            "City": "Lille",
+            "PM2.5": "16.57",
+            "PM10": "23.7",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "PE",
+            "City": "Lima",
+            "PM2.5": "23.7",
+            "PM10": "88",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "CL",
+            "City": "Linares",
+            "PM2.5": "27.6",
+            "PM10": "41.67",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "UK",
+            "City": "Liverpool",
+            "PM2.5": "8.8",
+            "PM10": "18.3",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "UK",
+            "City": "London",
+            "PM2.5": "15.8",
+            "PM10": "24.8",
+            "AvrgSpeedLimit": "15",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "US",
+            "City": "Los Angeles",
+            "PM2.5": "12.7",
+            "PM10": "29",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / EPA"
+        },
+        {
+            "Country": "CL",
+            "City": "Los Cerrillos",
+            "PM2.5": "26.2",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "IN",
+            "City": "Lucknow",
+            "PM2.5": "90.3",
+            "PM10": "218",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / CPCB"
+        },
+        {
+            "Country": "DE",
+            "City": "Ludwigsburg",
+            "PM2.5": "0",
+            "PM10": "15",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "UmweltbunIDsamt"
+        },
+        {
+            "Country": "BA",
+            "City": "Lukavac",
+            "PM2.5": "39.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "CN",
+            "City": "Luoyang",
+            "PM2.5": "62.4",
+            "PM10": "110.4",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "FR",
+            "City": "Lyon",
+            "PM2.5": "11.83",
+            "PM10": "20.1",
+            "AvrgSpeedLimit": "15",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "ES",
+            "City": "Madrid",
+            "PM2.5": "11.32",
+            "PM10": "20.7",
+            "AvrgSpeedLimit": "18.2",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "TH",
+            "City": "Mae Hong Son",
+            "PM2.5": "35.3",
+            "PM10": "38",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "UK",
+            "City": "Manchester",
+            "PM2.5": "11.6",
+            "PM10": "16.9",
+            "AvrgSpeedLimit": "18.2",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "FR",
+            "City": "Marseille",
+            "PM2.5": "13.46",
+            "PM10": "32.1",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Masterton ",
+            "PM2.5": "12.5",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "US",
+            "City": "Maywood",
+            "PM2.5": "16.5",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "US",
+            "City": "McCloud",
+            "PM2.5": "16",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "CO",
+            "City": "MeIDllín",
+            "PM2.5": "46",
+            "PM10": "50.3",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "COn Government"
+        },
+        {
+            "Country": "UK",
+            "City": "Medway",
+            "PM2.5": "15.2",
+            "PM10": "23.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "MX",
+            "City": "MX City",
+            "PM2.5": "72.8",
+            "PM10": "40.4",
+            "AvrgSpeedLimit": "16.6",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "EC",
+            "City": "Milagro",
+            "PM2.5": "0",
+            "PM10": "66",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "IT",
+            "City": "Milan",
+            "PM2.5": "22.56",
+            "PM10": "34.3",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "MoIDna",
+            "PM2.5": "17.8",
+            "PM10": "32.2",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "TH",
+            "City": "Mueang Lamphun",
+            "PM2.5": "36.9",
+            "PM10": "44",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "IN",
+            "City": "Mumbai",
+            "PM2.5": "45.3",
+            "PM10": "107.67",
+            "AvrgSpeedLimit": "17.8",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Central Pollution Control Board"
+        },
+        {
+            "Country": "DE",
+            "City": "Munich",
+            "PM2.5": "14.99",
+            "PM10": "24.9",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Muswellbrook",
+            "PM2.5": "13.5",
+            "PM10": "29.6",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IN",
+            "City": "Muzaffamagar",
+            "PM2.5": "89.1",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IN",
+            "City": "Nagpur",
+            "PM2.5": "44",
+            "PM10": "119",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "CPCB "
+        },
+        {
+            "Country": "TH",
+            "City": "Nakhon Ratchasima",
+            "PM2.5": "42.2",
+            "PM10": "43.6",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IT",
+            "City": "Napoli",
+            "PM2.5": "15.95",
+            "PM10": "31.1",
+            "AvrgSpeedLimit": "14.2",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IN",
+            "City": "Navi Mumbai",
+            "PM2.5": "0",
+            "PM10": "70",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "CPCB"
+        },
+        {
+            "Country": "US",
+            "City": "New York",
+            "PM2.5": "7",
+            "PM10": "15",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / EPA"
+        },
+        {
+            "Country": "AU",
+            "City": "Newcastle",
+            "PM2.5": "12.5",
+            "PM10": "19",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "FR",
+            "City": "Nice",
+            "PM2.5": "11.91",
+            "PM10": "20.7",
+            "AvrgSpeedLimit": "16.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IN",
+            "City": "Noida",
+            "PM2.5": "97.7",
+            "PM10": "276",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / CPCB"
+        },
+        {
+            "Country": "TH",
+            "City": "Nonthaburi",
+            "PM2.5": "23.2",
+            "PM10": "40.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "US",
+            "City": "North Bend",
+            "PM2.5": "16",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "UK",
+            "City": "Norwich",
+            "PM2.5": "10.2",
+            "PM10": "15.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CL",
+            "City": "Osomo",
+            "PM2.5": "32.8",
+            "PM10": "54",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "UK",
+            "City": "Oxford",
+            "PM2.5": "0",
+            "PM10": "12.2",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CL",
+            "City": "Padre las Casas",
+            "PM2.5": "0",
+            "PM10": "64",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "IT",
+            "City": "Padua",
+            "PM2.5": "0",
+            "PM10": "35",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "TH",
+            "City": "Pai",
+            "PM2.5": "38.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "FR",
+            "City": "Paris ",
+            "PM2.5": "14.45",
+            "PM10": "32.1",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Parma",
+            "PM2.5": "31.5",
+            "PM10": "18.8",
+            "AvrgSpeedLimit": "22.2",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Pavia",
+            "PM2.5": "23.3",
+            "PM10": "34.6",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "ID",
+            "City": "Pekanbaru",
+            "PM2.5": "52.8",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "PK",
+            "City": "Peshawar",
+            "PM2.5": "63.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "UK",
+            "City": "Plymouth",
+            "PM2.5": "9.9",
+            "PM10": "16.5",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "ID",
+            "City": "Pontianak",
+            "PM2.5": "49.7",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "US",
+            "City": "Portola",
+            "PM2.5": "16.9",
+            "PM10": "29",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "UK",
+            "City": "Portsmouth",
+            "PM2.5": "10.5",
+            "PM10": "19.3",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CZ",
+            "City": "Praha",
+            "PM2.5": "21.19",
+            "PM10": "32.6",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CL",
+            "City": "ProviIDncia",
+            "PM2.5": "29.5",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "CL",
+            "City": "Pudahuel",
+            "PM2.5": "27.6",
+            "PM10": "63.1",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "MX ",
+            "City": "Puebla",
+            "PM2.5": "0",
+            "PM10": "34",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "AQICN"
+        },
+        {
+            "Country": "CL",
+            "City": "Puerto Montt",
+            "PM2.5": "26.4",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "IN",
+            "City": "Pune",
+            "PM2.5": "0",
+            "PM10": "119",
+            "AvrgSpeedLimit": "17.95",
+            "Source (PM2.5) (PM10)": "CPCB"
+        },
+        {
+            "Country": "CL",
+            "City": "Quilicura",
+            "PM2.5": "25.3",
+            "PM10": "59.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "PK",
+            "City": "Raiwind",
+            "PM2.5": "92.2",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "IL",
+            "City": "Ramat Gan",
+            "PM2.5": "22.6",
+            "PM10": "45",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "CL",
+            "City": "Rancagua",
+            "PM2.5": "26.9",
+            "PM10": "50.4",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "UK",
+            "City": "Reading",
+            "PM2.5": "9.1",
+            "PM10": "13.4",
+            "AvrgSpeedLimit": "16.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "FR",
+            "City": "Reims",
+            "PM2.5": "12.84",
+            "PM10": "24.1",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CL",
+            "City": "Rengo",
+            "PM2.5": "0",
+            "PM10": "49",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "BR",
+            "City": "Rio Claro",
+            "PM2.5": "0",
+            "PM10": "56",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "BR",
+            "City": "Rio ID Janeiro",
+            "PM2.5": "0",
+            "PM10": "49",
+            "AvrgSpeedLimit": "15.8",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "IL",
+            "City": "Rishon LeTsiyon",
+            "PM2.5": "22.9",
+            "PM10": "40.1",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "US",
+            "City": "San Francisco",
+            "PM2.5": "7.1",
+            "PM10": "15",
+            "AvrgSpeedLimit": "15",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / EPA"
+        },
+        {
+            "Country": "BR",
+            "City": "Santa GertruIDs",
+            "PM2.5": "0",
+            "PM10": "95",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "CL",
+            "City": "Santiago",
+            "PM2.5": "27.7",
+            "PM10": "67.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "EC",
+            "City": "Santo Domingo",
+            "PM2.5": "0",
+            "PM10": "69",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "BR",
+            "City": "Sao Paulo",
+            "PM2.5": "15.3",
+            "PM10": "28",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "BA",
+            "City": "Sarajevo",
+            "PM2.5": "34.1",
+            "PM10": "72.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / European Environment Agency"
+        },
+        {
+            "Country": "TH",
+            "City": "Saraphi",
+            "PM2.5": "41.3",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "SK",
+            "City": "Seoul ",
+            "PM2.5": "24.8",
+            "PM10": "44",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Statista"
+        },
+        {
+            "Country": "CN",
+            "City": "Shanghai",
+            "PM2.5": "35.4",
+            "PM10": "47.86",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Aqistudy"
+        },
+        {
+            "Country": "CN",
+            "City": "Shangqiu",
+            "PM2.5": "72.6",
+            "PM10": "93.1",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "AE",
+            "City": "Sharjah",
+            "PM2.5": "34.6",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "UK",
+            "City": "Sheffield",
+            "PM2.5": "11.6",
+            "PM10": "16",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CN",
+            "City": "Shenyang",
+            "PM2.5": "0",
+            "PM10": "78.53",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "CN",
+            "City": "Shenzhen",
+            "PM2.5": "23.4",
+            "PM10": "38",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "CN",
+            "City": "Shihezi",
+            "PM2.5": "63.3",
+            "PM10": "101.8",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "CN",
+            "City": "Shijiazhuang",
+            "PM2.5": "64",
+            "PM10": "117.37",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Chinese Government / Aqistudy"
+        },
+        {
+            "Country": "TK",
+            "City": "Sindirgi",
+            "PM2.5": "45.8",
+            "PM10": "45.3",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Singleton ",
+            "PM2.5": "12.5",
+            "PM10": "25.9",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "Bulgaria",
+            "City": "Sofia",
+            "PM2.5": "0",
+            "PM10": "40.8",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "ID",
+            "City": "South Tarangerang",
+            "PM2.5": "81.3",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "UK",
+            "City": "Southampton",
+            "PM2.5": "44.6",
+            "PM10": "17.6",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "AQICN"
+        },
+        {
+            "Country": "FR",
+            "City": "Strasbourg",
+            "PM2.5": "14.37",
+            "PM10": "26",
+            "AvrgSpeedLimit": "20.6",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "DE",
+            "City": "Stuttgart",
+            "PM2.5": "13.61",
+            "PM10": "27.2",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "ID",
+            "City": "Surabaya",
+            "PM2.5": "40.6",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "UK",
+            "City": "Swansea",
+            "PM2.5": "0",
+            "PM10": "19.4",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CN",
+            "City": "Taiyuan",
+            "PM2.5": "0",
+            "PM10": "107.82",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "ID",
+            "City": "Talawi",
+            "PM2.5": "42.7",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "CL",
+            "City": "Talca",
+            "PM2.5": "0",
+            "PM10": "49",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "AU",
+            "City": "Tamworth",
+            "PM2.5": "15.2",
+            "PM10": "16",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "CN",
+            "City": "Tangshan",
+            "PM2.5": "30",
+            "PM10": "102",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Chinese Government"
+        },
+        {
+            "Country": "IL",
+            "City": "Tel Aviv",
+            "PM2.5": "0",
+            "PM10": "42",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "AQICN"
+        },
+        {
+            "Country": "CL",
+            "City": "Temuco",
+            "PM2.5": "0",
+            "PM10": "50",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "UK",
+            "City": "Thurrock",
             "PM2.5": "10",
-            "PM10": "15"
+            "PM10": "18.9",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "CN",
+            "City": "Tianjin",
+            "PM2.5": "64",
+            "PM10": "82",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Chinese Government / Aqistudy"
+        },
+        {
+            "Country": "MX",
+            "City": "Toluca",
+            "PM2.5": "29.4",
+            "PM10": "39.6",
+            "AvrgSpeedLimit": "18.2",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / AQICN"
+        },
+        {
+            "Country": "IT",
+            "City": "Torino",
+            "PM2.5": "22.77",
+            "PM10": "28.4",
+            "AvrgSpeedLimit": "14.2",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Trento",
+            "PM2.5": "14",
+            "PM10": "24",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Treviso",
+            "PM2.5": "21.2",
+            "PM10": "30",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "BA",
+            "City": "Tuzla",
+            "PM2.5": "35.3",
+            "PM10": "0",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "ID",
+            "City": "Ubud",
+            "PM2.5": "27.9",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "IT",
+            "City": "Udine",
+            "PM2.5": "16.1",
+            "PM10": "20.3",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "SK",
+            "City": "Ulsan",
+            "PM2.5": "20.1",
+            "PM10": "43",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Statista"
+        },
+        {
+            "Country": "CN",
+            "City": "Urumqi",
+            "PM2.5": "0",
+            "PM10": "88.47",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "CL",
+            "City": "Valdivia",
+            "PM2.5": "0",
+            "PM10": "47",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Statista"
+        },
+        {
+            "Country": "IT",
+            "City": "Verona",
+            "PM2.5": "20.6",
+            "PM10": "30.6",
+            "AvrgSpeedLimit": "17.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Vicenza",
+            "PM2.5": "24.5",
+            "PM10": "34.1",
+            "AvrgSpeedLimit": "21.4",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "IT",
+            "City": "Vigevano",
+            "PM2.5": "0",
+            "PM10": "34",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Wagga Wagga",
+            "PM2.5": "12.4",
+            "PM10": "21",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "US",
+            "City": "Walnut Park",
+            "PM2.5": "16.3",
+            "PM10": "0",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir"
+        },
+        {
+            "Country": "PL",
+            "City": "Warsaw",
+            "PM2.5": "24.86",
+            "PM10": "42.9",
+            "AvrgSpeedLimit": "19.8",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "UK",
+            "City": "Warwick",
+            "PM2.5": "0",
+            "PM10": "14",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "AU",
+            "City": "Wyong",
+            "PM2.5": "12.1",
+            "PM10": "15",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / WHO Database"
+        },
+        {
+            "Country": "CN",
+            "City": "Xi`an",
+            "PM2.5": "0",
+            "PM10": "102.47",
+            "AvrgSpeedLimit": "0",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "CN",
+            "City": "Xianyang",
+            "PM2.5": "63.7",
+            "PM10": "109.1",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / Chinese Government"
+        },
+        {
+            "Country": "CN",
+            "City": "Xingtai",
+            "PM2.5": "42",
+            "PM10": "110",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Chinese Government"
+        },
+        {
+            "Country": "CN",
+            "City": "Xining",
+            "PM2.5": "0",
+            "PM10": "65.38",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "CN",
+            "City": "Yinchuan",
+            "PM2.5": "0",
+            "PM10": "74.04",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "Aqistudy"
+        },
+        {
+            "Country": "UK",
+            "City": "York",
+            "PM2.5": "10.5",
+            "PM10": "18.4",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "HR",
+            "City": "Zagreb",
+            "PM2.5": "20.68",
+            "PM10": "29.4",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "European Environment Agency"
+        },
+        {
+            "Country": "BA",
+            "City": "Zenica",
+            "PM2.5": "348",
+            "PM10": "58.7",
+            "AvrgSpeedLimit": "19",
+            "Source (PM2.5) (PM10)": "World air quality report - IQAir / European Environment Agency"
         }
     ]
 }
