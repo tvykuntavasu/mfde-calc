@@ -30,7 +30,7 @@ const MHSlider = withStyles({
     rail: {
         height: 20,
         borderRadius: 4
-    }
+    },    
 })(Slider);
 
 export const MFDESlider = ({ avrgSpeedLimit, onAverageSpeedChange }) => (

@@ -3,78 +3,223 @@
         {
             "label": "Motorcycles",
             "value": "Motorcycles",
-            "Motorcycles":[{            
-            "PM10":[
+            "Motorcycles": [
                 {
-                    "Urbantyre":3.7,
-                    "Urbanbrake":5.8,
-                    "Urbanroad":3,
-                    "EUR6":3.5,
-                    "EUR4-5":3.5,
-                    "Non-exhaustsum":12.5
-
-                }],
-            "PM25":[
-                    {
-                        "Urbantyre":2.59,
-                        "Urbanbrake":2.32,
-                        "Urbanroad":1.62,
-                        "EUR6":3.5,
-                        "EUR4-5":3.5,
-                        "Non-exhaustsum":7
-    
-                    }
+                    "PM10": [
+                        {
+                            "Urbantyre": 3.7,
+                            "Urbanbrake": 5.8,
+                            "Urbanroad": 3,
+                            "EUR6": 3.5,
+                            "EUR4-5": 3.5,
+                            "Non-exhaustsum": 12.5
+                        }
+                    ],
+                    "PM2.5": [
+                        {
+                            "Urbantyre": 2.59,
+                            "Urbanbrake": 2.32,
+                            "Urbanroad": 1.62,
+                            "EUR6": 3.5,
+                            "EUR4-5": 3.5,
+                            "Non-exhaustsum": 7
+                        }
+                    ]
+                }
             ]
-            }]
         },
         {
             "label": "Cars",
             "value": "Cars",
-            "Cars":[{                
-                "PM10":[
-                    {
-                        "Urbantyre":3.7,
-                        "Urbanbrake":5.8,
-                        "Urbanroad":3,
-                        "EUR6":3.5,
-                        "EUR4-5":3.5,
-                        "Non-exhaustsum":12.5
-    
-                    }],
-                "PM25":[
+            "Cars": [
+                {
+                    "PM10": [
                         {
-                            "Urbantyre":2.59,
-                            "Urbanbrake":2.32,
-                            "Urbanroad":1.62,
-                            "EUR6":3.5,
-                            "EUR4-5":3.5,
-                            "Non-exhaustsum":7
-        
+                            "Urbantyre": 3.7,
+                            "Urbanbrake": 5.8,
+                            "Urbanroad": 3,
+                            "EUR6": 1.6,
+                            "EUR4-5": 1.4,
+                            "Non-exhaustsum": 12.5
                         }
-                ]
-                }]
-        }
-    ],
-    "Countries":["DE","FR","ES","IT","BG","PL","HR","CZ","UK","GR","BA","TR","BR","CO","MX","CL","CN","ID","KR","TH","VN","BO","PE","EC","IL","QA","BH","US","IN","AU","PK","AE"],
-
-    
-    "EmissionNorms": [
-        {
-            "label": "IC",
-            "value": "IC"
+                    ],
+                    "PM2.5": [
+                        {
+                            "Urbantyre": 2.59,
+                            "Urbanbrake": 2.32,
+                            "Urbanroad": 1.62,
+                            "EUR6": 1.6,
+                            "EUR4-5": 1.4,
+                            "Non-exhaustsum": 7
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "label": "Euro6",
-            "value": "Euro6"
+            "label": "LGV",
+            "value": "LGV",
+            "LGV": [
+                {
+                    "PM10": [
+                        {
+                            "Urbantyre": 13.8,
+                            "Urbanbrake": 18.2,
+                            "Urbanroad": 7.5,
+                            "EUR6": 1.2,
+                            "EUR4-5": 23.9,
+                            "Non-exhaustsum": 39.5
+                        }
+                    ],
+                    "PM2.5": [
+                        {
+                            "Urbantyre": 9.66,
+                            "Urbanbrake": 7.28,
+                            "Urbanroad": 4.05,
+                            "EUR6": 1.2,
+                            "EUR4-5": 23.9,
+                            "Non-exhaustsum": 21
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Buses",
+            "value": "Buses",
+            "Buses": [
+                {
+                    "PM10": [
+                        {
+                            "Urbantyre": 21.1,
+                            "Urbanbrake": 53.6,
+                            "Urbanroad": 38,
+                            "EUR6": 2.3,
+                            "EUR4-5": 46.2,
+                            "Non-exhaustsum": 112.7
+                        }
+                    ],
+                    "PM2.5": [
+                        {
+                            "Urbantyre": 14.77,
+                            "Urbanbrake": 21.44,
+                            "Urbanroad": 20.52,
+                            "EUR6": 2.3,
+                            "EUR4-5": 46.2,
+                            "Non-exhaustsum": 57
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Rigid HGV",
+            "value": "Rigid HGV",
+            "Rigid HGV": [
+                {
+                    "PM10": [
+                        {
+                            "Urbantyre": 20.7,
+                            "Urbanbrake": 51,
+                            "Urbanroad": 38,
+                            "EUR6": 1.3,
+                            "EUR4-5": 23.9,
+                            "Non-exhaustsum": 109.7
+                        }
+                    ],
+                    "PM2.5": [
+                        {
+                            "Urbantyre": 14.49,
+                            "Urbanbrake": 20.4,
+                            "Urbanroad": 20.52,
+                            "EUR6": 1.3,
+                            "EUR4-5": 23.9,
+                            "Non-exhaustsum": 55
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Artic HGV",
+            "value": "Artic HGV",
+            "Artic HGV": [
+                {
+                    "PM10": [
+                        {
+                            "Urbantyre": 47.1,
+                            "Urbanbrake": 51,
+                            "Urbanroad": 38,
+                            "EUR6": 1.3,
+                            "EUR4-5": 26.8,
+                            "Non-exhaustsum": 136.1
+                        }
+                    ],
+                    "PM2.5": [
+                        {
+                            "Urbantyre": 32.97,
+                            "Urbanbrake": 20.4,
+                            "Urbanroad": 20.52,
+                            "EUR6": 1.3,
+                            "EUR4-5": 26.8,
+                            "Non-exhaustsum": 74
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Countries": [
+        "DE",
+        "FR",
+        "ES",
+        "IT",
+        "BG",
+        "PL",
+        "HR",
+        "CZ",
+        "UK",
+        "GR",
+        "BA",
+        "TR",
+        "BR",
+        "CO",
+        "MX",
+        "CL",
+        "CN",
+        "ID",
+        "KR",
+        "TH",
+        "VN",
+        "BO",
+        "PE",
+        "EC",
+        "IL",
+        "QA",
+        "BH",
+        "US",
+        "IN",
+        "AU",
+        "PK",
+        "AE"
+    ],
+    "EmissionNorms": [
+        {
+            "label": "EUR4-5",
+            "value": "EUR4-5"
+        },
+        {
+            "label": "EUR6",
+            "value": "EUR6"
         }
     ],
     "products": [
         {
-            "label": "Gen1",
+            "label": "Pure air - rear delivery",
             "value": "Gen1"
         },
         {
-            "label": "Gen2",
+            "label": "Pure air - Top delivery",
             "value": "Gen2"
         }
     ],
@@ -82,47 +227,56 @@
         "Gen1": [
             {
                 "value": 0,
-                "label":"0",
+                "label": "0",
                 "power": 0
             },
             {
                 "value": 1400,
-                "label":"1400",
+                "label": "1400",
                 "power": 100
             },
             {
                 "value": 1750,
-                "label":"1750",
+                "label": "1750",
                 "power": 200
             },
             {
                 "value": 2250,
-                "label":"2250",
+                "label": "2250",
                 "power": 400
             }
         ],
         "Gen2": [
             {
                 "value": 0,
-                "label":"0",
+                "label": "0",
                 "power": 0
             },
             {
                 "value": 1750,
-                "label":"1750",
+                "label": "1750",
                 "power": 100
             },
             {
                 "value": 2000,
-                "label":"2000",
+                "label": "2000",
                 "power": 150
             },
             {
                 "value": 2500,
-                "label":"2500",
+                "label": "2500",
                 "power": 250
             }
         ]
+    },
+    "ElementClass": {
+        "PM10": {
+            "Gen1": 0.55,
+            "Gen2": 0.60
+        },
+        "PM2.5": {
+            "Gen1": 0.80,
+            "Gen2": 0.87
+        }
     }
-
 }

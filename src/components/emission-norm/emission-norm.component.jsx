@@ -11,6 +11,7 @@ export const EmissionNorm = ({norms,placeholder,handleNormChange}) => {
             options={norms.map(norm => ({ label: norm.label, value: norm.value }))} 
             placeholder={placeholder}
             onChange={handleNormChange}
+            defaultValue={{ label: 'Euro6', value: 'Euro6' }}
             />
         </div>
     )

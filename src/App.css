@@ -1,3 +1,24 @@
 .App {
   text-align: center;
+  z-index:1;
+}
+.App::before{
+  background-image: url(./assets/mfdefinalImage.png);
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+.BImage{
+  background-image: url(./assets/mfdefinalImage.png);
+  opacity: 0.05;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
 }

@@ -49,7 +49,7 @@ export const MarkedSlider = ({ volumeFlow, onVolumeFlowChange,marks }) => (
             min={0}
             max={marks[3].value}
             step={null}
-            valueLabelDisplay="on"
+            valueLabelDisplay="auto"
             onChange={onVolumeFlowChange}
             value={volumeFlow || 0}
             marks={marks}
